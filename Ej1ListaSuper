@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<header>
+			<h3>Lista de Súper</h3>
+		</header>
+		<main>
+			<section>
+				<ol>
+					<li>Frutas
+						<ul>
+							<li>Melón</li>
+							<li>Sandía</li>
+							<li>Fresas</li>
+						</ul>
+					</li>
+					<li>Verduras
+						<ul>
+							<li>Tomate</li>
+							<li>Zanahoria</li>
+							<li>Kale</li>
+						</ul>
+					</li>
+					<li>Lácteos
+						<ul>
+							<li>Leche</li>
+							<li>Huevos</li>
+							<li>Queso cottage</li>
+						</ul>
+					</li>
+					<li>Pan
+						<ul>
+							<li>Pan de Centeno</li>
+							<li>Muffins integrales</li>
+							<li>Bagels</li>
+						</ul>
+					</li>
+				</ol>
+			</section>
+		</main>
+		<footer></footer>
+	</body>
+</html>
